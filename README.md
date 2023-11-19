@@ -1,5 +1,7 @@
 # Performance of Each Optimizers 
 
+Link to GitHub page: [https://github.com/JorrgeX/MNIST-classification-optimizer](https://github.com/JorrgeX/MNIST-classification-optimizer)
+
 ## Introduction
 
 In this report, I explore the performance of four optimization algorithms for minimizing the loss function and finding the optimal dividing quadratic hypersurface for the MNIST dataset for classification problem. The chosen optimizers are:
